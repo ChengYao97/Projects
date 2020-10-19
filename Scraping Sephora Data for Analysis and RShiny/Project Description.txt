@@ -1,0 +1,1 @@
+In this project, I have used R to scrape Sephora's product data using Selenium and made an interactive board with RShiny.
