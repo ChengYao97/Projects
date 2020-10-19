@@ -1,0 +1,6 @@
+In this project, I have downloaded various datasets including NYC House prices rolling for the past 10 years and also the average house price for the past 10 years in each borough.
+
+I have also downloaded datasets that I think will help me visualise and affects the house prices which are rat sightings (for cleanliness), schools in the vicinity,
+crime rate in the area.
+
+I then visualised the data in these datasets with various graphs and did forecasting with OLS and ARIMA.
